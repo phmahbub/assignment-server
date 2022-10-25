@@ -1,0 +1,284 @@
+[
+    {
+        "id":1,
+        "title":"Python Programming Course",
+        "instructor":[
+            {
+                "name":"Abdullah Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Amanullah Al Kami",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "objective":["Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!"],
+        "details":"If you arere looking to learn Python for the very first time or need a quick brush-up, this is the course for you Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming! Even if you haven't touched coding before, it won't matter. The easy step-to-step lectures will quickly guide you through everything you'll need to know about coding, mainly Python. This course is here for you to get accustomed and familiar with Python and its syntax. And above all, Python is one of the easiest coding languages to learn, and there's a lot you can do with it.",
+        "speciality":["All the examples and case studies of this course are in Bangladeshi context to make it more comprehensive, relevant, and engaging.","In addition to the details of Facebook marketing, this course also shows the basics of graphic designing with mobile, mobile photography, videography and video editing with mobile.","The instructors of this course are renowned Facebook influencers who have utilized their Facebook marketing skills, and they will share their learnings with you.","There are real life case studies about clothing brands, online teaching, stylish branding and promoting your creative endeavors on Facebook."],
+        
+        
+        "language":"English",
+        
+        "outline":["Basic Data Type","Conditions and Loop","Functions","Classes","Python Modules","Chart and Plots","Data Analysis"],
+        "enrolled":2300,
+        "duration":60,
+        "rating":4.7,
+        "price":1550,
+        "thumb":"https://sistemasgeniales.com/wp-content/uploads/2021/12/PYTHON.png",
+        "catagory":"Programming Language"
+    },
+
+    {
+        "id":2,
+        "title":"Java Programming for Complete Beginners",
+        "objectives":["Java Programming for Beginners to Java Object Oriented Programming. Core Java + REST API with Spring Boot. Java 8 to 16."],
+        "instructor":[
+            {
+                "name":"Abdullah Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Amanullah Al Kami",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+       
+        "outline":["Basics of Java Programming - Expressions, Variables, and Printing Output","Java Operators","Java Conditionals and If Statement","Methods - Parameters, Arguments, and Return Values","Object-Oriented Programming - Class, Object, State, and Behavior","Basics of OOPS - Encapsulation, Abstraction, Inheritance, and Polymorphism","Basics about Java Data Types - Casting, Operators, and More","Java Built-in Classes - BigDecimal, String, Java Wrapper Classes"],
+        "speciality":["All the examples and case studies of this course are in Bangladeshi context to make it more comprehensive, relevant, and engaging.","In addition to the details of Facebook marketing, this course also shows the basics of graphic designing with mobile, mobile photography, videography and video editing with mobile.","The instructors of this course are renowned Facebook influencers who have utilized their Facebook marketing skills, and they will share their learnings with you.","There are real life case studies about clothing brands, online teaching, stylish branding and promoting your creative endeavors on Facebook."],
+
+        "details":"Java is one of the most popular programming languages. Java offers both object-oriented and functional programming features. We take a hands-on approach using a combination of JShell and Eclipse as an IDE to illustrate more than 200 Java Coding Exercises, Puzzles, and Code Examples. This course assumes no previous ( beginner ) programming or Java experience. If you’ve never programmed a computer before, or if you already have experience with another programming language and want to quickly learn Java, this is a perfect course for you.",
+        "thumb":"https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
+        "rating":4.3,
+        "catagory":"Programming Language",
+        "language":"English",
+        "enrolled":200,
+        "duration":70,
+        "price":1890
+        
+    },
+
+    {
+        "id":3,
+        "title":"Beginning C++ Programming - From Beginner to Beyond",
+        "objectives":"Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
+        "instructor":[
+            {
+                "name":"Abdullah Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Amanullah Al Kami",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "thumb":"https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png",
+        "rating":4.9,
+        "catagory":"Programming Language",
+        "language":"English",
+        "enrolled":2150,
+        "duration":45,
+        "outline":["Looping with while, do/while for, range-based for statements and recursion","Performing calculations and displaying results","Functions","Pointers","Using existing classes and creating objects","Creating your own classes","Using Basic Standard Template Library classes such as Vector","Constructors and Destructors","Using inheritance and class hierarchies","Using Polymorphic functions and dynamic binding ","An introduction to the C++ STL","An introduction to Exception Handling"],
+        "speciality":["All the examples and case studies of this course are in Bangladeshi context to make it more comprehensive, relevant, and engaging.","In addition to the details of Facebook marketing, this course also shows the basics of graphic designing with mobile, mobile photography, videography and video editing with mobile.","The instructors of this course are renowned Facebook influencers who have utilized their Facebook marketing skills, and they will share their learnings with you.","There are real life case studies about clothing brands, online teaching, stylish branding and promoting your creative endeavors on Facebook."],
+
+        "details":"Find a good course, taught by an instructor with many years of experience in C++ is critical, as is the need for the instructor to have the necessary skills to be able to teach you the language.Frank Mitropolous, the instructor in this course has been using C++ for over 2 decades and has taught students in both university courses and industry training courses.  He even worked on a C++ compiler development project while he was in the industry. So not only will you be learning C++ from an expert C++ programmer, but you'll also be taught by an instructor who has successfully taught at university level for many years.As a result, you can take this course with confidence, knowing that you will learn C++ the right way, and in the shortest possible timeframe.",
+        "price":1390
+    },
+
+    {
+        "id":4,
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "objectives":["The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"],
+        "thumb":"https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png",
+        "rating":5.0,
+        "instructor":[
+            {
+                "name":"Abdullah Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Amanullah Al Kami",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "catagory":"Programming Language",
+        "language":"English",
+        "enrolled":3750,
+        "duration":85,
+        "outline":["Master the JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, and more","Learn modern JavaScript (ES6+) from the beginning: arrow functions, destructuring, spread operator, default arguments, optional chaining (ES2020), and more","How JavaScript works behind the scenes: engines, the call stack, hoisting, scoping, the 'this' keyword, reference values, and more.","Deep dive into functions: arrow functions, first-class and higher-order functions, bind, and closures.","Deep dive into object-oriented programming: prototypal inheritance, constructor functions (ES5), classes (ES6), encapsulation, abstraction, inheritance, and polymorphism. [This is like a small standalone course]","Deep dive into asynchronous JavaScript: the event loop, promises, async/await, and error handling. You will use these to access data from third-party APIs with AJAX calls. ","Learn modern tools that are used by professional web developers: NPM, Parcel (module bundler), Babel, and ES6 modules"],
+
+        "details":"This is the most complete JavaScript course on PC Academy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications. You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's 'The Complete JavaScript Course'. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
+        "speciality":["All the examples and case studies of this course are in Bangladeshi context to make it more comprehensive, relevant, and engaging.","In addition to the details of Facebook marketing, this course also shows the basics of graphic designing with mobile, mobile photography, videography and video editing with mobile.","The instructors of this course are renowned Facebook influencers who have utilized their Facebook marketing skills, and they will share their learnings with you.","There are real life case studies about clothing brands, online teaching, stylish branding and promoting your creative endeavors on Facebook."],
+        "price":1290
+    },
+    {
+        "id":"5",
+        "title":"Facebook Marketing",
+        "instructor":[
+            {
+                "name":"Abdullah Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Amanullah Al Kami",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "objective":["Ways to increase the sales of your business on Facebook.","Tips to make your business stand out as a strong brand.","Strategies to create appropriate content to attract new customers and retain the older ones.","Usage of various important features of Facebook, such as Facebook Pages, Facebook Groups, increasing organic reach, Facebook Boosting, and Advertising through Facebook Ads."],
+        "details":"Facebook being the most widely used social media in Bangladesh, Facebook marketing is one of the strongest branches of digital marketing. This means that no matter what business you are in, it is a given that a huge portion of your target audience spends a lot of time on Facebook. If you own a business or are an entrepreneur, then Facebook is the best way for effective communication with your customers.",
+        "speciality":["All the examples and case studies of this course are in Bangladeshi context to make it more comprehensive, relevant, and engaging.","In addition to the details of Facebook marketing, this course also shows the basics of graphic designing with mobile, mobile photography, videography and video editing with mobile.","The instructors of this course are renowned Facebook influencers who have utilized their Facebook marketing skills, and they will share their learnings with you.","There are real life case studies about clothing brands, online teaching, stylish branding and promoting your creative endeavors on Facebook."],
+        "language":"English",
+        "outline":["Introduction to facebook marketing", "Creating Mobile Content", "Content Marketing and Engagement","Video Content", "Facebook Boosting"],
+        "enrolled":2564,
+        "duration":35,
+        "ratings":4.7,
+        "price":2500,
+        "thumb":"https://neilpatel.com/wp-content/uploads/2021/06/1082251_Facebook-Marketing_2_060321-1-1.jpg",
+        "catagory":"Skill Developement"
+    },
+    {
+        "id":"6",
+        "title":"Microsoft Office Course",
+        "instructor":[
+            {
+                "name":"Nahian Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Mashiat Mahbub",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "objective":["Effective shortcuts of the three important software of Microsoft Office (Microsoft Excel, Microsoft Word, and Microsoft PowerPoint) to increase productivity","How to make interesting slides for any presentation for both students and professionals","Ways to create 3D models from basic shapes with Microsoft PowerPoint","3 of the most used MS Office softwares from basic to advanced level","Techniques for writing academic papers, assignments, CV and resume for professional life, making presentation slides or creating any sort of documents using Microsoft Office softwares."],
+        "details":"Usually, MS Office products are the first software that we learn after buying a computer. So, it is common to think of ourselves as proficient in these software. It is not unless we start using them in formal settings that we know about their advanced features.Right now, proficiency in MS Office software is a must for any job. Even if you are a student, you will need to know the usage of Microsoft Word, Excel, and PowerPoint. By learning this three software only, you will be able to create and format all necessary documents.To help you learn all these at the same time, 10 Minute School has come up with a golden opportunity named 'Microsoft Office Course' Course. By knowing all the details of MS Word, MS Excel, and MS PowerPoint from the Basic to Advanced level, not only will you have good academic results but also can prepare for Professional Life. Enroll in the Microsoft Office course and take yourself to the next level by adding three skills to your bag at the same time. You will also have three certificates for three different MS office skills.",
+        "speciality":["Those who have the basic idea of Microsoft Office but struggle with the advanced usage.","Students who need to learn about proper formatting of academic documents like reports, assignments, presentation slides, etc.","Professionals who want to work faster by utilizing the three most used MS Office software effectively."],
+        "language":"English",
+        "outline":["Introduction to Microsoft Office Apps", "Creating Powerpoint Presentation", "MS Excel for Office Management","Microsoft Word and its uses", "Office 365 outline"],
+        "enrolled":1256,
+        "duration":30,
+        "ratings":4.5,
+        "price":2500,
+        "thumb":"https://www.venturelessons.com/wp-content/uploads/2020/05/microsoft-office-courses-1128x635.jpg",
+        "catagory":"Skill Developement"
+    },
+    {
+        "id":"7",
+        "title":"Search Engine Optimization",
+        "instructor":[
+            {
+                "name":"Manha Mahbub",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Adriana Gomej",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "objective":["Basics of SEO, including how search engines work, domain-hosting, keyword research, On-page SEO and Off-page SEO","How to use various SEO tools including Google Search Console","Industry-standard SEO practices through various project-based work","How to pursue a career by mastering SEO"],
+        "details":"Proper SEO or Search Engine Optimization practices can multiply a website’s organic traffic from Google searches. Since numerous websites produce content on a particular topic, only the ones that follow proper SEO practices are prioritized in Google’s search engine rankings. As most people do not visit the second page of Google search results, optimizing the website according to the rules of SEO is extremely important. For this reason, SEO specialists are in high demand among website owners and businesses.",
+        "speciality":["Those who want to learn SEO and earn through it","Those who want to learn and apply industry-standard SEO practices","Those who want to increase the number of visitors on websites without spending on paid advertising","Those who want to rank their business website or blog in Google search"],
+        "language":"English",
+        "outline":["Introduction to SEO", "Understanding Search Engines", "Domain & Hosting","Introduction to Keyword Search", "On Page SEO","Off Page SEO", "Google Search Console","Self Branding"],
+        "enrolled":1058,
+        "duration":30,
+        "ratings":4.6,
+        "price":2000,
+        "thumb":"https://www.classcentral.com/report/wp-content/uploads/2022/07/SEO-BCG-Banner-2.png",
+        "catagory":"Skill Developement"
+    },
+
+    {
+        "id":"8",
+        "title":"Microsoft Excel Course",
+        "instructor":[
+            {
+                "name":"Nahian Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Mashiat Mahbub",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "objective":["Completing complex calculations quickly with Microsoft Excel","Analyzing worksheet data and applying Microsoft Excel formulas, functions, and tips & tricks","From basic data entry to advanced data analysis – learning from an expert","Using various functions of Microsoft Excel such as worksheet data analysis, advanced Excel formulas, data filters, chart creation, and many more","The strategies to increase productivity in office work or studies by using advanced Excel functions","Data management and data storage with Microsoft Excel tutorials, quizzes, and practice workbooks"],
+        "details":"Are you struggling to keep track of thousands of office projects and tasks? By learning Microsoft Excel formulas, functions, and applying smart tips & tricks, you will be able to collect and calculate data in a matter of moments. Learning Excel will help to simplify all your complex tasks and increase your productivity. To keep you ahead in your career, 10 Minute School has brought the “Microsoft Excel” course, taught by an Excel expert, Abtahi Iptesam.This course will help you fast-forward your tasks by teaching you excel basics and leading to advanced excel formulas to make your life easier. With this course, you will be able to simplify complex and hectic tasks like data storing, sorting and analysis. So, if you want to enter the world of data, be able to perform a bunch of complex calculations in seconds, and learn all you can about Microsoft Excel, enroll in this course right away!",
+        "speciality":["Those who have the basic idea of Microsoft Excel but struggle with the advanced usage.","Students who need to learn about proper formatting of official calculations.","Professionals who want to work faster by utilizing the three most used MS Excel effectively."],
+        "language":"English",
+        "outline":["Excel Basics", "Functions in Excel", "Formating Your Workbook","Sort and Filter", "Data Validation","Basic Charts and Pivot Tables"],
+        "enrolled":1356,
+        "duration":40,
+        "ratings":4.8,
+        "price":2500,
+        "thumb":"https://i.ytimg.com/vi/Vl0H-qTclOg/maxresdefault.jpg",
+        "catagory":"Skill Developement"
+    },
+    {
+        "id":"9",
+        "title":"Web Design",
+        "instructor":[
+            {
+                "name":"Nahian Al Jami",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Mashiat Mahbub",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "objective":["Proper and to-the-point information about website planning, designing, and coding","Usage of HTML and CSS language","Designing website layout and template","Everything about web hosting"],
+        "details":"Web design determines how a website will look in front of its visitors. It is not enough to have a visually pretty website; it needs to be practical and functional. A professional web designer requires two vital skills- programming and design sense. These two skills break down into many more minor skills, which altogether makes a web designer a successful one.This course will provide you with the complete guideline to start your career as a web designer. Not only will you learn the skills required for Web Design, but you will also learn hands-on tips & tricks and receive cheat sheets to perform repetitive tasks faster. Enroll in the course to start your journey towards building yourself as a successful web designer.",
+        "speciality":["Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design","Those who want to learn web design to take up projects in freelance marketplaces or local industries.","Graphic designers who want to expand their scope by learning programming and web designing.","Those who want to know the industry’s best practices to build their website","Those who want to find out what visitors need to know to experience the interactive website"],
+        "language":"English",
+        "outline":["Introduction to Web Design", "Learning Web Development Tools", "Understanding HTML Code Structure"," CSS Code Structure", "How Bootstrap Works and Setup","Making a Web Layout Responsive","DOM and DOM Manipulation"," Learning Web Hosting","Uploading Files to the Server"],
+        "enrolled":1500,
+        "duration":42,
+        "ratings":4.8,
+        "price":2500,
+        "thumb":"https://i.ytimg.com/vi/B-ytMSuwbf8/maxresdefault.jpg",
+        "catagory":"Skill Developement"
+    },
+    {
+        "id":"10",
+        "title":"Animation",
+        "instructor":[
+            {
+                "name":"Manha Mahbub",
+                "photo":"url",
+                "designation":"Founder & CEO, PC Academy; Forbe's 30 Under 30; Queen's Young Leader; Bestselling Author"     
+            },
+            {
+                "name":"Adriana Gomej",
+                "photo":"url",
+                "designation":"Instructor, PC Academy; Bestselling Author; Education Content Creator"     
+            }
+        ],
+        "objective":["The basics, grammar, and essentials of cartoon animation","Usage of Adobe Animate to create animations","Blocking, timing, and spacing, as well as basic sound designing using Audacity Video"],
+        "details":"In this course, cartoonist, animator, and YouTuber Antik Mahmud will teach you everything about cartoon animation– starting from downloading the software to knowing how to create animations. You will learn about the software and hardware requirements for animation, storyboarding, concept art, the skills and techniques of using Adobe Animate, and the basics of sound designing using Audacity.So, without further ado, enroll in the “Cartoon Animation” course today to learn all you need to become a successful cartoon animator.",
+        "speciality":["Those who are interested in drawing and content-making and want to develop their skills in their free time","Beginner animators who wish to enter the job market by taking themselves up to the intermediate level"],
+        "language":"English",
+        "outline":[" Introduction to Animation", "Hardwares and Softwares", "Domain & Hosting","Software Installation & Audio Editing", "Timeline and Library","Animation Breakdown", "Animation Drawing Steps","Common Mistakes to Avoid In Animation"],
+        "enrolled":2045,
+        "duration":50,
+        "ratings":4.6,
+        "price":2500,
+        "thumb":"https://www.techquintal.com/wp-content/uploads/2021/01/Animation-Course.jpg",
+        "catagory":"Skill Developement"
+    }
+]
